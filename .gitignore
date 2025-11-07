@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+pure_python/.idea/
+.idea/
+
+# Coverage data file (
+.coverage
+htmlcov/.gitignore
+htmlcov/status.json
+htmlcov/*
+!htmlcov/index.html
+!htmlcov/z_*.html
